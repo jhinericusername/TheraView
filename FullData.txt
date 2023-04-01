@@ -1,0 +1,51 @@
+Migraine,Headache,Neck stretches,Yes
+Dehydration,Mouth dryness,Hydrating fluids,No
+Angina,Chest pain,Diaphragmatic breathing,No
+Irritable Bowel Syndrome,Abdominal cramps,FODMAP diet,No
+Allergic rhinitis,Runny nose,Nasal corticosteroids,No
+Rheumatoid arthritis,Joint pain and swelling,Low-impact cardio,Yes
+Meniere's Disease,Tinnitus,Vestibular rehabilitation,Yes
+Pharyngitis,Sore throat,Gargling with salt water,No
+Motion sickness,Nausea,Acupressure wristbands,No
+Gastroesophageal Reflux Disease (GERD),Acid reflux,Antacids,No
+Glaucoma,Blurred vision,Eye exercises,Yes
+Chronic Obstructive Pulmonary Disease (COPD),Shortness of breath,Pulmonary rehabilitation,Yes
+Overactive Bladder Syndrome,Urinary incontinence,Pelvic floor muscle exercises,Yes
+Eczema,Skin rashes,Emollients and moisturizers,No
+Chronic Fatigue Syndrome,Fatigue,Gradual exercise program,Yes
+Celiac disease,Bloating,Gluten-free diet,No
+Sleep apnea,Insomnia,Sleep hygiene,No
+Peripheral Neuropathy,Numbness and tingling in limbs,Aerobic exercises,Yes
+Asthma,Dry cough,Inhalers,Yes
+Anorexia,Loss of appetite,Nutritional supplements,No
+Urinary tract infection,Frequent urination,Antibiotics,No
+Erectile Dysfunction,Low libido,Pelvic floor exercises,Yes
+Myasthenia Gravis,Muscle weakness,Medications,No
+Ankylosing Spondylitis,Back stiffness and pain,Stretching exercises,Yes
+Dystonia,Muscle spasms,Botulinum toxin injections,No
+Vertigo,Poor balance,Vestibular rehabilitation,Yes
+Macular Degeneration,Vision loss,Low-vision aids,No
+Alzheimer's Disease,Memory loss,Cognitive training,No
+Dysphagia,Difficulty swallowing,Swallowing therapy,No
+Psoriasis,Dry skin,Topical corticosteroids,No
+Irritable Bowel Syndrome,Constipation,High-fiber diet,No
+Lymphoma,Swollen lymph nodes,Chemotherapy,No
+Hyperhidrosis,Sweating,Antiperspirants,No
+Meniere's Disease,Dizziness,Balance exercises,Yes
+Arrhythmia,Irregular heart beat,Heart rate monitoring,No
+ALS (Amyotrophic Lateral Sclerosis),Muscle cramps,Stretching exercises,Yes
+Muscular Dystrophy,Muscle atrophy,Physical therapy,Yes
+Aphasia,Difficulty speaking,Speech therapy,No
+Cerebellar Ataxia,Poor coordination,Coordination exercises,Yes
+Essential Tremor,Tremors,Medications,No
+Osteoarthritis,Joint stiffness,Heat therapy,Yes
+Benign Paroxysmal Positional Vertigo,Vertigo,Canalith repositioning maneuvers,Yes
+Sjogren's Syndrome,Dry eyes,Artificial tears,No
+Bell's Palsy,Facial weakness,Facial exercises,Yes
+Alopecia Areata,Hair loss,Topical corticosteroids,No
+Diplopia,Double vision,Eye patches,No
+Presbycusis,Hearing loss,Hearing aids,No
+Trigeminal Neuralgia,Numbness and tingling in face,Medications,No
+Vasovagal Syncope,Fainting,Tilt table test,No
+Lumbar Herniated Disc,Low back pain, Knee Pulls, Yes
+
