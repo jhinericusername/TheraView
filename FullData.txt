@@ -1,3 +1,4 @@
+Condition,Symptom, Physical therapy exercise, Active
 Migraine,Headache,Neck stretches,Yes
 Dehydration,Mouth dryness,Hydrating fluids,No
 Angina,Chest pain,Diaphragmatic breathing,No
