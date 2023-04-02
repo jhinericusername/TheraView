@@ -276,11 +276,8 @@ def compare_videos(video1, video2):
 
     if score < 0:
         score = 0
-    
-    best_attribute = joint_from_index(least_error_index)
-    worst_attribute = joint_from_index(most_error_index)
 
-    return score, best_attribute, worst_attribute
+    return score, least_error_index, most_error_index
 
 def joint_from_index(argument):
     switcher = {
@@ -304,7 +301,11 @@ def joint_from_index(argument):
 
 video1 = "jj_6s.mp4"
 video2 = "jj_side_6s.mp4"
-score, best_attribute, worst_attribute = compare_videos(video1, video2)
+score, least_error_index, most_error_index = compare_videos(video1, video2)
+
+    
+best_attribute = joint_from_index(least_error_index)
+worst_attribute = joint_from_index(most_error_index)
 
 print(f"The similarity score between the two videos is: {score:.2f}")
 
@@ -313,7 +314,9 @@ print(f"The similarity score between the two videos is: {score:.2f}")
 dict = {
     "score": score,
     "best_attribute": best_attribute,
-    "worst_attribute": worst_attribute
+    "worst_attribute": worst_attribute,
+    "best_attribute_": least_error_index,
+    "worst_attribute_": most_error_index
 }
 
 print(dict)
