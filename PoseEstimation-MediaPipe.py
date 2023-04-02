@@ -300,7 +300,7 @@ def joint_from_index(argument):
 
 
 video1 = "jj_6s.mp4"
-video2 = "jj_side_6s.mp4"
+video2 = "armstretch_6s.mp4"
 score, least_error_index, most_error_index = compare_videos(video1, video2)
 
     
